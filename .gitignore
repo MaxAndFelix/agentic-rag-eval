@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.env
+data/raw/*.pdf
+data/processed/
+evals/results/*
+!evals/results/.gitkeep
+qdrant_storage/
+.DS_Store

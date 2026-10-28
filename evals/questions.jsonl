@@ -1,0 +1,5 @@
+{"question": "How does MEDAL compute its confidence score for selecting which position to fill?", "expected_source": "medal.pdf", "answer_keywords": ["probability", "entropy", "margin"]}
+{"question": "What are the two screening stages in MEDAL and what are their top-K values?", "expected_source": "medal.pdf", "answer_keywords": ["K1", "K2"]}
+{"question": "How is the information-gain reward in MEDAL defined?", "expected_source": "medal.pdf", "answer_keywords": ["entropy", "remaining positions"]}
+{"question": "What does TABES use the inner product between the gradient and the embedding change for?", "expected_source": "tabes.pdf", "answer_keywords": ["score", "candidate positions"]}
+{"question": "How does TABES prevent the decoding distribution from collapsing?", "expected_source": "tabes.pdf", "answer_keywords": ["entropy floor"]}
